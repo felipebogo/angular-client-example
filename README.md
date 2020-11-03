@@ -7,7 +7,7 @@ exemplo de varias requisições no client com angular
 ```
 Requisito ter mongodb executando
 cd server
-npm instal
+npm install
 node generate.js
 node app.js
 ```
